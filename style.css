@@ -18,6 +18,7 @@ nav{
     margin-left: 20px;
 }
 .navbar{
+    cursor: pointer;
     display: flex;
     list-style: none;
 padding: 0;
@@ -308,7 +309,7 @@ margin-bottom: 50px;
 }
 .footer h1 {
 position: absolute;
- color: aliceblue;
+ color: rgb(235, 230, 230) ;
 top: 20%;
 left: 50%;
 transform: translate(-50%, -50%);
@@ -321,7 +322,6 @@ padding: 10px;
 
 .social-links {
     position: absolute;
-  /* background-color: aliceblue; */
    top: 58%;
    left: 42%;
     display: flex;
@@ -334,7 +334,7 @@ padding: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-   color: white;
+   color: rgb(235, 230, 230) !important;
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -352,7 +352,7 @@ padding: 10px;
 }
 .footer p {
 position: absolute;
-color: aliceblue;
+color: rgb(235, 230, 230) ;
 top: 75%;
 left: 50%;
 transform: translate(-50%, -50%);
