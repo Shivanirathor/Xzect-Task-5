@@ -68,14 +68,14 @@ position: absolute;
     color: gray;
     letter-spacing: 0.2px;
     font-family: ru;
-    /* font-family:  Helvetica Neue, Helvetica, Arial, sans-serif; */
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
-.rubik-para{
-    color: #007bff ;; 
+/* .rubik-para{
+    color: #007bff; 
      font-family: "Rubik",Arial, sans-serif;
-}
+} */
 .email-text{
     font-size: 16px;
     padding: 25px 130px;
