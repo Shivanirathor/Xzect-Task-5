@@ -464,6 +464,19 @@ color: rgb(9, 9, 45);
         padding: 15px 30px;
         font-size: 18px;
     }
+
+    
+    .internet-name{
+      margin-right: 50px;
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    .internet-name li{
+        font-size: 20px;
+        margin-left: 30px;
+        /* text-align: center; */
+    }
     .writing-box img{
         width: 100%;
         max-width: 400px;
